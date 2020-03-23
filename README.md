@@ -1,3 +1,3 @@
 # GreatEndMachines
 
-Simple elevator mod for Minecraft using the Fabric Mod Loader
+Adds end-game machines from the End
