@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "greatendmachines",
+  "version": "0.1.0",
+
+  "name": "Great End Machines",
+  "description": "Adds some great end machines",
+  "authors": [
+    "KQP"
+  ],
+  "contact": {
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/greatendmachines/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.kqp.greatendmachines.GreatEndMachines"
+    ],
+    "client": [
+      "com.kqp.greatendmachines.client.GreatEndMachinesClient"
+    ],
+    "modmenu": [
+      "com.kqp.greatendmachines.modmenu.GreatEndMachinesModMenu"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.15.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

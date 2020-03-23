@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "greatendmachines:block/proximity_intake" }
+    }
+}

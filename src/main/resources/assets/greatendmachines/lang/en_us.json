@@ -1,0 +1,14 @@
+{
+    "item.greatendmachines.fish_trap": "Fish Trap",
+    "block.greatendmachines.fish_trap": "Fish Trap",
+    "item.greatendmachines.shulker_furnace": "Shulker Furnace",
+    "block.greatendmachines.shulker_furnace": "Shulker Furnace",
+    "item.greatendmachines.proximity_intake": "Proximity Intake",
+    "block.greatendmachines.proximity_intake": "Proximity Intake",
+    "container.greatendmachines.shulker_furnace": "Shulker Furnace",
+    "category.greatendmachines.general": "General",
+    "option.greatendmachines.fish_trap_require_seeds": "Fish Trap Requires Seeds",
+    "option.greatendmachines.shulk_furn_cooktime_mult": "Shulker Furnace Cook Time Multiplier",
+    "option.greatendmachines.shulk_furn_fueltime_mult": "Shulker Furnace Fuel Time Multiplier",
+    "option.greatendmachines.prox_intake_rate": "Proximity Intake Suction Rate"
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "particle": "greatendmachines:block/proximity_intake_side",
+        "top": "greatendmachines:block/proximity_intake_top",
+        "side": "greatendmachines:block/proximity_intake_side",
+        "bottom": "greatendmachines:block/proximity_intake_bottom"
+    }
+}

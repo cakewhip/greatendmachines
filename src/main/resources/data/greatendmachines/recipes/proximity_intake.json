@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BEB",
+        "PHP"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:purpur_pillar"
+        },
+        "H": {
+            "item": "minecraft:hopper"
+        },
+        "B": {
+            "item": "minecraft:purpur_block"
+        },
+        "E": {
+            "item": "minecraft:ender_eye"
+        }
+    },
+    "result": {
+        "item": "greatendmachines:proximity_intake",
+        "count": 1
+    }
+}

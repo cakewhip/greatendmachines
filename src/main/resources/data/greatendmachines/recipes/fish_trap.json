@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PXP",
+        "PCP",
+        "LPL"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:purpur_pillar"
+        },
+        "X": {
+            "item": "minecraft:shulker_shell"
+        },
+        "L": {
+            "item": "minecraft:sea_lantern"
+        },
+        "C": {
+            "item": "minecraft:end_crystal"
+        }
+    },
+    "result": {
+        "item": "greatendmachines:fish_trap",
+        "count": 1
+    }
+}

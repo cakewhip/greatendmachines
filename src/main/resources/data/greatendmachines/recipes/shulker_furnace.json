@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PXP",
+        "BFS",
+        "PCP"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:purpur_pillar"
+        },
+        "B": {
+            "item": "minecraft:blast_furnace"
+        },
+        "X": {
+            "item": "minecraft:shulker_shell"
+        },
+        "S": {
+            "item": "minecraft:smoker"
+        },
+        "C": {
+            "item": "minecraft:end_crystal"
+        },
+        "F": {
+            "item": "minecraft:dragon_breath"
+        }
+    },
+    "result": {
+        "item": "greatendmachines:shulker_furnace",
+        "count": 1
+    }
+}
